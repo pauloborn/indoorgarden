@@ -11,4 +11,5 @@ Indoor Garden (this repository that you read)
 2. Camera streaming (TBD - GIT repo)
 
 ## Architecture
-TBD Image
+
+![Architecture](/img/IndoorGarden-architecture.png)
